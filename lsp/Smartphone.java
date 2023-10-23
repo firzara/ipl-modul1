@@ -8,9 +8,5 @@ public class Smartphone extends Product {
         return "Samsung S22 Ultra";
     }
 
-    @Override
-    Date getExpiredDate() {
-        return new Date(0);
-    }
 
 }
