@@ -21,18 +21,6 @@ public class Order {
         /* ... */
     }
 
-    void printOrder() {
-        /* ... */
-    }
 
-    void showOrder() {
-        /* ... */
-    }
 
-    void getDailyHistory() {
-    }
-
-    void getMonthlyHistory() {
-    }
-    
 }
